@@ -1,6 +1,6 @@
 {
   "name": "fail-2b-good",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple exception-handling wrapper so that you won't get stuck with the nesting hell of try-catch statements. ",
   "main": "index.js",
   "types": "index.d.ts",
