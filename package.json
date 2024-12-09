@@ -1,0 +1,16 @@
+{
+  "name": "fail-2b-good",
+  "version": "1.0.0",
+  "description": "A simple exception-handling wrapper so that you won't get stuck with the nesting hell of try-catch statements. ",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shizongli94/fail-2b-good.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
