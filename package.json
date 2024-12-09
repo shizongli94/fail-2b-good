@@ -8,9 +8,13 @@
     "type": "git",
     "url": "git+https://github.com/shizongli94/fail-2b-good.git"
   },
+  "bugs": {
+    "url": "https://github.com/shizongli94/fail-2b-good/issues"
+  },
+  "homepage": "https://github.com/shizongli94/fail-2b-good",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Zongli Shi",
   "license": "MIT"
 }
