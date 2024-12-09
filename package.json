@@ -11,10 +11,11 @@
   "bugs": {
     "url": "https://github.com/shizongli94/fail-2b-good/issues"
   },
-  "homepage": "https://github.com/shizongli94/fail-2b-good",
+  "homepage": "https://github.com/shizongli94/fail-2b-good#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Zongli Shi",
-  "license": "MIT"
+  "license": "MIT",
+  "readme": "README.md"
 }

@@ -1,3 +1,4 @@
 .npmrc
 node_modules
 node_modules/*
+fail-2b-good-*.tgz
