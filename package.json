@@ -16,6 +16,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Zongli Shi",
-  "license": "MIT",
-  "readme": "README.md"
+  "license": "MIT"
 }
