@@ -60,7 +60,7 @@ Parameter: Any function (someFuncThatCanFail) that returns a promise of type T.
 
 Return: A promise of this type: [Error|undefined, T|undefined], which is an array of some error and the value we want to get out of someFuncThatCanFail.
 
-By testing where the first element (i.e. the possible error) is undefined, TypeScript can know whether the second element is undefined or not. Therefore, it won't complain about it, since either Error or T is undefined, but not both.
+By testing whether the first element (i.e. the possible error) is undefined, TypeScript can know whether the second element is undefined or not. Therefore, it won't complain about it, since either Error or T is undefined, but not both.
 
 ### For synchronous job, use failableSync()
 ```
